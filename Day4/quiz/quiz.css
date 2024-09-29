@@ -1,0 +1,9 @@
+.travel {
+  /* 자식을 수평으로 배치하기*/
+  display: flex;
+}
+
+.card {
+  display: flex;
+  flex-direction: colum;
+}
