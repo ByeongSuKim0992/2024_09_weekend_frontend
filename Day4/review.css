@@ -1,4 +1,4 @@
-.button1 {
+.coupon {
   background-color: cornflowerblue;
   border: 1px solid cornflowerblue;
   color: white;
@@ -6,18 +6,10 @@
   padding: 10px 20px 10px 20px;
   font-weight: 700;
 }
-.button2 {
-  background-color: cornflowerblue;
-  border: 1px solid cornflowerblue;
-  color: white;
-  border-radius: 4px;
-  padding: 12px 30px 12px 30px;
-  font-weight: 700;
-}
-.button3 {
-  background-color: rgba(red, green, blue, alpha);
-  border: 1px solid gainsboro;
-  color: white;
+.share {
+  background-color: #bdbdbb;
+  border: 1px solid #bdbdbb;
+  color: rgba(0, 0, 0, 0.354);
   border-radius: 4px;
   padding: 10px;
   font-weight: 700;

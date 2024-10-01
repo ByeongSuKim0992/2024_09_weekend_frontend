@@ -14,7 +14,7 @@
   background-color: pink;
 }
 
-/* album 자식의 ing 태그 부르기*/
+/* album 자식의 img 태그 부르기*/
 .album {
   width: 200px;
   height: 300px;
@@ -25,11 +25,11 @@
   height: 100%;
   border-radius: 5px;
 }
-.picture {
+.album1 {
   width: 100px;
   height: 100px;
 }
-.picture > img {
+.album1 > img {
   width: 100%;
   height: 100%;
   /* 동그라미 9999px*/
