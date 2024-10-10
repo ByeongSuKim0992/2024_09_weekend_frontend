@@ -4,23 +4,3 @@
   border-radius: 4px;
   background-color: white;
 }
-.boxModel {
-  background-color: #98ebcc;
-  border: 1px solid #98ebcc;
-  border-radius: 4px;
-  padding-top: 2px;
-  font-weight: 600;
-  cursor: pointer;
-}
-.background {
-  background-color: #9dd7ff;
-  border: 1px solid #9dd7ff;
-  border-radius: 4px;
-  padding-top: 2px;
-}
-.Typography {
-  background-color: #c9c5ff;
-  border: 1px solid #c9c5ff;
-  border-radius: 4px;
-  padding-top: 2px;
-}
