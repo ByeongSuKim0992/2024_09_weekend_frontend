@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.box {
+  width: 100px;
+  height: 100px;
+}
+.green {
+  background-color: #55efc4;
+  border: #55efc4;
+}
+
+.teal {
+  background-color: #81ecec;
+  border: #81ecec;
+}
+.blue {
+  background-color: #74b9ff;
+  border: #74b9ff;
+}
+.purple {
+  width: 100px;
+  height: 100px;
+  background-color: #a29bfe;
+  border: #a29bfe;
+}
+.grey {
+  width: 100px;
+  height: 100px;
+  background-color: #dfe6e9;
+  border: #dfe6e9;
+}

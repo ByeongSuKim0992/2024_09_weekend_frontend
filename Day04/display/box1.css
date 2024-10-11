@@ -1,0 +1,38 @@
+.palette {
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.box {
+  width: 100px;
+  height: 100px;
+}
+.blue {
+  background-color: #55efc4;
+}
+.faded {
+  background-color: #81ecec;
+}
+.mint {
+  background-color: #00b894;
+}
+.egg {
+  background-color: #00cec9;
+}
+
+.lemon {
+  background-color: #ffeaa7;
+}
+.date {
+  background-color: #fab1a0;
+}
+
+.yarrow {
+  background-color: #fdcb6e;
+}
+.orange {
+  background-color: #e17055;
+}
